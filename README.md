@@ -1,9 +1,7 @@
 # fx_vehiclelock
-FX_VEHICLELOCK LOCK AND UNLOCK YOUR CAR WITHOUT KEYS ITEM, ANIMATION AND HORN SOUND.
+Lock and Unlock your vehicle without key. Included Animation and Notificacion 
 
-••••••••••••••••••••••
-SUPPORT MANY LANGUAGES
-••••••••••••••••••••••
+Only ESX
 
 Up to date and working
 
